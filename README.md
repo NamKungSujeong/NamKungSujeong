@@ -2,12 +2,6 @@
 
 #### Front-end Developer
 
-> 꼼꼼한 개발자
-
-> 항상 발전하고자 하는 개발자
-
-> 사용자를 먼저 생각하는 개발자
-
 <!--
 **NamKungSujeong/NamKungSujeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

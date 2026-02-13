@@ -63,7 +63,9 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://plink.ai.kr/ai"><b>플링크 AI<br/>(PLink)</b></a>
+        <b>플링크 AI<br/>(PLink)</b><br/>
+        <a href="https://plink.ai.kr/ai">[고객용]</a> 
+        <a href="https://admin.plink.ai.kr/finders/login">[설계사용]</a>
       </td>
       <td align="left">
         보험 설계사를 위한 AI 영업 지원 솔루션 및 고객관리 툴<br/>

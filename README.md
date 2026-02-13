@@ -80,7 +80,9 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://apps.apple.com/kr/app/보인다-보험-커뮤니티/id1501467859"><b>보인다<br/>(Boinda)</b></a>
+        <b>보인다<br/>(Boinda)</b><br/>
+        <a href="https://apps.apple.com/kr/app/보인다-보험-커뮤니티/id1501467859">[iOS]</a> 
+        <a href="https://play.google.com/store/apps/details?id=co.finders.finaple">[Android]</a>
       </td>
       <td align="left">
         보험 커뮤니티 앱<br/>

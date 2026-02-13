@@ -52,9 +52,67 @@
 <br/>
 <hr/>
 
-<h2 align="center">🔥 Github Stats</h2>
+<h2 align="center">📂 Featured Projects</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamKungSujeong&show_icons=true&theme=minimal&hide_border=true&bg_color=00000000" />
+  <table>
+    <tr>
+      <th align="center">Service</th>
+      <th align="center">Description</th>
+      <th align="center">Stack</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://plink.ai.kr/ai"><b>플링크 AI<br/>(PLink)</b></a>
+      </td>
+      <td align="left">
+        보험 설계사를 위한 AI 영업 지원 솔루션 및 고객관리 툴<br/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://apps.apple.com/kr/app/보인다-보험-커뮤니티/id1501467859"><b>보인다<br/>(Boinda)</b></a>
+      </td>
+      <td align="left">
+        보험 커뮤니티 앱<br/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <br/>
+        <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/>
+      </td>
+    </tr>
+     <tr>
+      <td align="center">
+        <a href="https://dbmaker.kr/"><b>디비메이커<br/>(DB Maker)</b></a>
+      </td>
+      <td align="left">
+        마케팅용 랜딩페이지 제작 및 고객 DB 관리 솔루션<br/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Zustand-orange?style=flat-square&logo=react&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+
+
+<h2 align="center">🔥 Github Stats</h2>
+<div align="center">  
+<!-- 수정된 코드 2: 가장 추천하는 깔끔한 조합 -->
+<img src="https://github-readme-stats.vercel.app/api?username=NamKungSujeong&show_icons=true&hide_border=true&bg_color=transparent&title_color=000&text_color=333" />
 </div>
 <br/>
 
